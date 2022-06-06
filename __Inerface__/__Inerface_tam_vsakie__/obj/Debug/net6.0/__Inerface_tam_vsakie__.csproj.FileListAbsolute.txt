@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\__Inerface_tam_vsakie__.exe
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\__Inerface_tam_vsakie__.deps.json
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\__Inerface_tam_vsakie__.runtimeconfig.json
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\__Inerface_tam_vsakie__.dll
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\ref\__Inerface_tam_vsakie__.dll
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\bin\Debug\net6.0\__Inerface_tam_vsakie__.pdb
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.AssemblyInfo.cs
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.dll
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\ref\__Inerface_tam_vsakie__.dll
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.pdb
+C:\Users\User\source\repos\__Inerface_tam_vsakie__\__Inerface_tam_vsakie__\obj\Debug\net6.0\__Inerface_tam_vsakie__.genruntimeconfig.cache
